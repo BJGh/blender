@@ -1,42 +1,24 @@
 <!--
-Keep this document short & concise,
-linking to external resources instead of including content in-line.
-See 'release/text/readme.html' for the end user read-me.
+Сохраняйте этот документ коротким и лаконичным,
+ссылаясь на внешние ресурсы, вместо того чтобы включать контент прямо.
+См. 'release/text/readme.html' для руководства конечного пользователя.
 -->
 
-> [!IMPORTANT]
-> Cloning from this [GitHub mirror](https://github.com/blender/blender) may cause Git LFS errors. To avoid this, use `GIT_LFS_SKIP_SMUDGE=1` when doing your initial clone.  
-> See [the documentation](https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror) for full instructions.
+> [!ВАЖНО]
+> Клонирование с этого [зеркала GitHub](https://github.com/blender/blender) может вызвать ошибки Git LFS. Чтобы этого избежать, используйте `GIT_LFS_SKIP_SMUDGE=1` при первоначальном клонировании.
+> Полные инструкции см. в [документации](https://developer.blender.org/docs/handbook/contributing/using_git/#github-mirror).
 
 Blender
 =======
 
-Blender is the free and open source 3D creation suite.
-It supports the entirety of the 3D pipeline—modeling, rigging, animation, simulation, rendering, compositing,
-motion tracking and video editing.
+Blender — это бесплатный и открытый набор инструментов для 3D-моделирования.
+Он поддерживает весь 3D-процесс — моделирование, риггинг, анимацию, симуляцию, рендеринг, композитинг, трекинг движения и видеомонтаж.
 
-![Blender screenshot](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Blender screenshot")
+![Скриншот Blender](https://code.blender.org/wp-content/uploads/2018/12/springrg.jpg "Скриншот Blender")
 
-Project Pages
--------------
+Страницы проекта
+----------------
 
-- [Main Website](http://www.blender.org)
-- [Reference Manual](https://docs.blender.org/manual/en/latest/index.html)
-- [User Community](https://www.blender.org/community/)
-
-Development
------------
-
-- [Build Instructions](https://developer.blender.org/docs/handbook/building_blender/)
-- [Code Review & Bug Tracker](https://projects.blender.org)
-- [Developer Forum](https://devtalk.blender.org)
-- [Developer Documentation](https://developer.blender.org/docs/)
-
-
-License
--------
-
-Blender as a whole is licensed under the GNU General Public License, Version 3.
-Individual files may have a different but compatible license.
-
-See [blender.org/about/license](https://www.blender.org/about/license) for details.
+- [Главный сайт](http://www.blender.org)
+- [Справочное руководство](https://docs.blender.org/manual/en/latest/index.html)
+- [Сообщество пользователей](https://www.blend) ...
